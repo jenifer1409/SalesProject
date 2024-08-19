@@ -1,0 +1,49 @@
+/* _content/SalesTransactionApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-qrczdn7twl] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-qrczdn7twl] {
+  color: #0077cc;
+}
+
+.btn-primary[b-qrczdn7twl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-qrczdn7twl], .nav-pills .show > .nav-link[b-qrczdn7twl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-qrczdn7twl] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-qrczdn7twl] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-qrczdn7twl] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-qrczdn7twl] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-qrczdn7twl] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

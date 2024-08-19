@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@model IEnumerable<SalesTransactionApp.Models.SalesTransact>
+
+<h2>Search Sales Transactions</h2>
+
+
+<form asp-action="Search" method="get">
+    <input type="text" name="itemName" placeholder="Item Name" />
+    <input type="date" name="salesDate" />
+    <select name="paymentType">
+        <option value="">Select Payment Type</option>
+        <option value="Cash">Cash</option>
+        <option value="Credit Card">Credit Card</option>
+        <option value="Digital Wallet">Digital Wallet</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Item Name</th>
+                <th>Sales Date</th>
+                <th>Amount</th>
+                <th>Payment Type</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Item</td>
+                    <td>@item.SalesDate.ToString("yyyy-MM-dd")</td>
+                    <td>@item.Amount</td>
+                    <td>@item.PaymentType</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary">Edit</a>
+                        <form asp-action="Delete" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No results found.</p>
+}

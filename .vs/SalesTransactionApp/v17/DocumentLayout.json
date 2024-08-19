@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\controllers\\salestransactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:controllers\\salestransactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\salestransactionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:salestransactionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\services\\coreservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:services\\coreservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\views\\userprofile\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:views\\userprofile\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\services\\coreservices\\salestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:services\\coreservices\\salestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\views\\salestransact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:views\\salestransact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\views\\salestransact\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:views\\salestransact\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\services\\interface\\isalestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:services\\interface\\isalestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\models\\salestransactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:models\\salestransactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\models\\salestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:models\\salestransact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|c:\\users\\hp\\source\\repos\\salestransactionapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D180220-F3C2-4207-9D45-D2AD368B5E09}|SalesTransactionApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesTransactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\SalesTransactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesTransactController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\SalesTransactController.cs",
+              "RelativeToolTip": "Controllers\\SalesTransactController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:42:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T06:42:20.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:48:14.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:01:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T21:55:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:41:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\CoreServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\CoreServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\CoreServices\\UserService.cs",
+              "RelativeToolTip": "Services\\CoreServices\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:22:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesTransactionApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\SalesTransactionApp.csproj",
+              "RelativeDocumentMoniker": "SalesTransactionApp.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\SalesTransactionApp.csproj",
+              "RelativeToolTip": "SalesTransactionApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T06:51:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:21:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\UserProfile\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserProfile\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\UserProfile\\Login.cshtml",
+              "RelativeToolTip": "Views\\UserProfile\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:42:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesTransact.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\CoreServices\\SalesTransact.cs",
+              "RelativeDocumentMoniker": "Services\\CoreServices\\SalesTransact.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\CoreServices\\SalesTransact.cs",
+              "RelativeToolTip": "Services\\CoreServices\\SalesTransact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:55:02.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:38:10.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\SalesTransact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SalesTransact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\SalesTransact\\Index.cshtml",
+              "RelativeToolTip": "Views\\SalesTransact\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:06:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\SalesTransact\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\SalesTransact\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Views\\SalesTransact\\Search.cshtml",
+              "RelativeToolTip": "Views\\SalesTransact\\Search.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:13:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISalesTransact.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\Interface\\ISalesTransact.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ISalesTransact.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Services\\Interface\\ISalesTransact.cs",
+              "RelativeToolTip": "Services\\Interface\\ISalesTransact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:52:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesTransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\SalesTransactionViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SalesTransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\SalesTransactionViewModel.cs",
+              "RelativeToolTip": "Models\\SalesTransactionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:02:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesTransact.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\SalesTransact.cs",
+              "RelativeDocumentMoniker": "Models\\SalesTransact.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Models\\SalesTransact.cs",
+              "RelativeToolTip": "Models\\SalesTransact.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:31:24.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SalesTransactionApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:55:36.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
